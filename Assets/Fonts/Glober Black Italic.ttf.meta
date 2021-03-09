@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: daad47fdd658be34a9e6cb5e4bd182c5
+timeCreated: 1533201865
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Glober
+  fontNames:
+  - Glober
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9e2a5a72789674741a59ddaeba8cbddd, type: 3}
+  - {fileID: 12800000, guid: cc4419c553504a74e8a53a8259af504c, type: 3}
+  - {fileID: 12800000, guid: 906d6086f4dc60d4a98a9f5febfcd8ec, type: 3}
+  - {fileID: 12800000, guid: 04e3dd96e5a4fbc4b894d777cb4db435, type: 3}
+  - {fileID: 12800000, guid: 4e3b88e6271a9fb4da24cdb4133091db, type: 3}
+  - {fileID: 12800000, guid: b73c0fc88e0abd546b3923e181349e31, type: 3}
+  - {fileID: 12800000, guid: 74f5cbca5e351524884140302075d478, type: 3}
+  - {fileID: 12800000, guid: 8f42851b77817bf4db2a3b0772c57b7e, type: 3}
+  - {fileID: 12800000, guid: 5e2fb59bf8dc9384aa7f9508f409aba6, type: 3}
+  - {fileID: 12800000, guid: 8cdfd9fbd4d20074c9d3d485d1981250, type: 3}
+  - {fileID: 12800000, guid: 8d1b521c87954f44486b0cdcdfe18519, type: 3}
+  - {fileID: 12800000, guid: 0a8a945cc733e5449a769dfa2114e143, type: 3}
+  - {fileID: 12800000, guid: 4d90a01ef841eb846a401533e982b162, type: 3}
+  - {fileID: 12800000, guid: 9366307eed6293d4fb99fced9a7aeded, type: 3}
+  - {fileID: 12800000, guid: adf102ee524231a4596b9b955d5f73c6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

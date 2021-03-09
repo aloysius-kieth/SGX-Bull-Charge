@@ -1,0 +1,18 @@
+{
+    "ip": "127.0.0.1",
+    "photoPath": "C://users//photos//",
+    "idleInterval": 180.0,
+    "useServer": false,
+    "useMocky": false,
+    "muteAllSounds": false,
+    "masterVolume": 0.0010000000474974514,
+    "musicVolume": 0.0010000000474974514,
+    "SFXVolume": 0.0010000000474974514,
+    "UI_SFXVolume": 0.0010000000474974514,
+    "kinect": {
+        "hand_factorX": 3.799999952316284,
+        "hand_factorY": 3.0999999046325685,
+        "hand_factorZ": 1.2999999523162842,
+        "hand_offsetY": 11.0
+    }
+}

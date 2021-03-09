@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/DeterminedLevel.unity
+    guid: 9d0fcb43e545e7c41a56eb0cb13be6c2
+  - enabled: 1
+    path: Assets/Scenes/EnergeticLevel.unity
+    guid: d65492d7bc8b8ce4090fbc1e3dbf56bc
+  - enabled: 0
+    path: Assets/Scenes/GenerousLevel.unity
+    guid: b41d8c96d102e0c4bba740578efac4ce
+  - enabled: 1
+    path: Assets/Scenes/KindnessLevel.unity
+    guid: eb7219cee8db3b949b26efcc89dc59d7
+  - enabled: 1
+    path: Assets/Scenes/PhotoTaking.unity
+    guid: 11450ad7ef9114644b1f7365e4f5b34b
